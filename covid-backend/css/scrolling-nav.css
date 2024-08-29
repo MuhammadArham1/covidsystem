@@ -1,0 +1,108 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+body {
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    overflow: hidden;
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: linear-gradient(135deg, #E3E3E3 0%, #E3E3E3 58%, rgba(129,248,205,1) 88%, rgba(129,248,205,1) 100%);
+    color: #535372;
+}
+
+.red{color: #ff5858;}
+
+.pos_abs {
+    position: absolute;
+}
+.pos_rel {
+    position: relative;
+}
+
+.img1 {
+    left: 95rem;
+    top: 19rem;
+    transform: rotate(-45deg);
+    height: 20rem;
+}
+
+.img2 {
+    left: 75rem;
+    top: 45rem;
+    transform: rotate(45deg);
+    height: 15rem;
+}
+
+.img3 {
+    left: 84rem;
+    top: 60rem;
+    transform: rotate(15deg);
+    height: 10rem;
+}
+
+.img4 {
+    left: 95rem;
+    top: 43rem;
+    transform: rotate(-15deg);
+    height: 25rem;
+}
+
+.img5 {
+    left: 88rem;
+    top: 36rem;
+    height: 13rem;
+}
+
+.covid{
+    transform: rotate(-45deg);
+    left: 43rem;
+    top: 20rem;
+    font-size: 10rem;
+    color: #4f85712a;
+}
+
+.title-container{
+    left: 8rem;
+    top: 25rem;
+
+}
+
+.titles-style{
+    font-size: 4rem;
+    font-weight: 100;
+}
+
+.name-title{
+    font-size: 8rem;
+}
+
+.subtitle {
+    top: 5rem;
+}
+
+.the-five{
+    left: 6rem;
+    top: 15rem;
+    font-size: 2rem;
+   
+}
+
+.info{
+    width: 60rem;
+    font-size: 1.3rem;
+}
+
+.info-container{
+    top: 4rem;
+    left: 8rem;
+}
